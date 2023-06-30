@@ -2,3 +2,9 @@
 ![image](https://github.com/dudorevov/nonamerepository/assets/137158557/c3bd2f73-d74b-4de9-b4a9-25cf68175f72)
 https://github.com/dudorevov/nonamerepository/graphs/commit-activity
 111
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/101d173b-c795-4848-987e-d9d80dd09415)
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/56322120-2fab-4650-8840-7c521a6d17c5)
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/204fc0cc-7abe-4ca5-b2a8-544e242ba854)
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/5ba026b0-1264-46f3-9e85-268ebacec42f)
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/d0072e1b-0137-4cbc-a520-e7a7d3887820)
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/46bd6cda-9789-4565-a9dc-4fcdfbc68bda)
