@@ -21,3 +21,6 @@ https://github.com/dudorevov/nonamerepository/graphs/commit-activity
 ![image](https://github.com/dudorevov/nonamerepository/assets/137158557/75b2b2b7-d19e-4b1f-afed-e0d22c75625a)
 ![image](https://github.com/dudorevov/nonamerepository/assets/137158557/cbc40511-8827-4cdd-a9cf-9d6a051fde1a)
 ![image](https://github.com/dudorevov/nonamerepository/assets/137158557/8a6a9e74-80f7-4c23-ab74-972e7180ce0a)
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/d2a20a15-ac69-407c-98e3-badb8d7ac95e)
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/81bd4c9c-ed4c-4b96-a775-a043647537ed)
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/b7186410-9c6b-4ee4-b7b1-15f1ebc43646)
