@@ -5,3 +5,7 @@
 ![image](https://github.com/dudorevov/nonamerepository/assets/137158557/b8a3c3f9-556b-4708-99fc-732c05ef9caa)
 ![image](https://github.com/dudorevov/nonamerepository/assets/137158557/d65f8b5a-5b60-4a05-8977-d28cf89a769a)
 ![image](https://github.com/dudorevov/nonamerepository/assets/137158557/b2ecd624-e606-4b0e-b5ba-ca9d8d6b4a79)
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/ccd2b4a8-7409-4e38-bc2a-3ecc9ab2a79f)
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/7fc2ca19-a108-42d2-94b2-02fdc37a6cec)
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/c84de01e-cdb1-4b3f-8e49-b8332482bec5)
+
