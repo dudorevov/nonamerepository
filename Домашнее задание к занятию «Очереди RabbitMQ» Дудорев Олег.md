@@ -9,3 +9,5 @@
 ![image](https://github.com/dudorevov/nonamerepository/assets/137158557/7fc2ca19-a108-42d2-94b2-02fdc37a6cec)
 ![image](https://github.com/dudorevov/nonamerepository/assets/137158557/c84de01e-cdb1-4b3f-8e49-b8332482bec5)
 
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/e9feb317-822a-4f7b-9c2b-17c9470f6cd2)
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/e3343d99-5549-4ce5-9728-efcff5038ab3)
