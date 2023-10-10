@@ -5,6 +5,7 @@
 Задание 2
 Получите из таблицы платежей за прокат фильмов информацию по платежам, которые выполнялись в промежуток с 15 июня 2005 года по 18 июня 2005 года включительно и стоимость которых превышает 10.00.
 ![image](https://github.com/dudorevov/nonamerepository/assets/137158557/74a5f3c9-b20f-4e69-b7cd-2517f9650792)
+
 Задание 2 UPDATE
 ![image](https://github.com/dudorevov/nonamerepository/assets/137158557/d6fb86b4-b827-4980-b3c0-581cf24917e9)
 
