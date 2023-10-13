@@ -25,3 +25,6 @@ inventory, film, rental
 
 после оптимизации
 ![image](https://github.com/dudorevov/nonamerepository/assets/137158557/d86874d9-845b-404e-a0cb-a52354afa56a)
+после очередной оптимизации
+
+![image](https://github.com/dudorevov/nonamerepository/assets/137158557/a8baafe6-7062-453c-b936-112933ba2643)
